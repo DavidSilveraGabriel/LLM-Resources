@@ -24,3 +24,8 @@ A **Large Language Model** is a type of machine learning model that has been tra
 OpenAI's GPT-4o is a prominent example of an LLM. is a model that can reason across audio, vision, and text in real time, due to that, the potential of this kind of models named multimodals is unbeliable.
 
 In summary, in the context of artificial intelligence, LLM refers to "Large Language Model," which are language models trained on large amounts of textual data to understand and generate natural language with high accuracy.
+
+
+### Main links: 
+
+The platform of [huggingface](https://huggingface.co/), an amazing AI community where can learn, use models, work, share and much more 
