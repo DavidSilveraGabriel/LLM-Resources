@@ -1,11 +1,18 @@
-# LLM-Resources
+# Complete LLM Course from zero to Job （づ￣3￣）づ╭❤～
 
-### What is LLM?
+## The objetive: 
+
+The objective of this repository is to structure all the knowledge acquired in my learning path about LLM, with code implementations, demos and reflections. 😎
+As a second objective, this is to be useful for the opensource community, providing them with an example route so that they can learn from my successes and mistakes.
+
+### Soooo.. What is LLM? 🤔
 
 LLM in the field of artificial intelligence and natural language processing is stands for **Large Language Model**.
 
+[Can you explain it better?]
+
 ### Large Language Model (LLM)
-A **Large Language Model** is a type of machine learning model that has been trained on a vast amount of textual data to understand and generate natural language. These models are capable of performing a variety of language-related tasks such as translation, summarization, text generation, question answering, and more.
+A **Large Language Model** is a type of machine learning model that has been trained on a vast amount of textual data to understand and generate natural language. These models are capable of performing a variety of language-related tasks such as translation, summarization, text generation, question answering, and more... 👀
 
 ### Characteristics of LLMs:
 1. **Size**: These models are extremely large, with millions or even billions of parameters. Examples include models like OpenAI's GPT-3, which has 175 billion parameters.
