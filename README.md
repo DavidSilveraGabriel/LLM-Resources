@@ -47,4 +47,5 @@ You really know something when you can explain it to your imaginary friend named
 
 ### Links: 
 
-The platform of [huggingface](https://huggingface.co/), an amazing AI community where can learn, use models, work, share and much more 
+The platform of [huggingface](https://huggingface.co/), an amazing AI community where can learn, use models, work, share and much more...
+you can follow me [here](https://huggingface.co/DSG). 🤗
