@@ -32,7 +32,19 @@ OpenAI's GPT-4o is a prominent example of an LLM. is a model that can reason acr
 
 In summary, in the context of artificial intelligence, LLM refers to "Large Language Model," which are language models trained on large amounts of textual data to understand and generate natural language with high accuracy.
 
+## What now?
 
-### Main links: 
+Soo.. after know that, what now? how i can start learning more in deepht about LLMs and the core concepts about this amazing field of AI? 
+
+Well my friend, affter years of trying learn programming by myself, ive learned one thing very well, and is that for really learn something in programing, you need start coding as soon as possible
+Before learn the theory, start with the practice, we firts learn how to speack, then the gramatics, what is a verb, adjetive, and those things that was my nightmare when i was a kid T.T 
+and after do you coding workhome, then teach to someone what have you learned, because this will make that you interiorize the knowlodge and make it yours.
+You really know something when you can explain it to your imaginary friend named [INSERT NAME].
+
+# Create you own chat bot using LLM
+
+###############/ CREATIVE MODE - WORKING IN THE CODE, PLEASE WAIT ;)
+
+### Links: 
 
 The platform of [huggingface](https://huggingface.co/), an amazing AI community where can learn, use models, work, share and much more 
