@@ -41,7 +41,7 @@ Before learn the theory, start with the practice, we firts learn how to speack, 
 and after do you coding workhome, then teach to someone what have you learned, because this will make that you interiorize the knowlodge and make it yours.
 You really know something when you can explain it to your imaginary friend named [INSERT NAME].
 
-# Create you own chat bot using LLM
+# Create your own chatbot powered with LLM
 
 ###############/ CREATIVE MODE - WORKING IN THE CODE, PLEASE WAIT ;)
 
