@@ -49,3 +49,5 @@ You really know something when you can explain it to your imaginary friend named
 
 The platform of [huggingface](https://huggingface.co/), an amazing AI community where can learn, use models, work, share and much more...
 you can follow me [here](https://huggingface.co/DSG). 🤗
+
+(LangChain)[https://www.langchain.com/] gives developers a framework to construct LLM‑powered apps easily. Check the (doc)[https://python.langchain.com/v0.2/docs/introduction/] for more info.
