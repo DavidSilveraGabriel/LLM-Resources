@@ -45,6 +45,8 @@ You really know something when you can explain it to your imaginary friend named
 
 ###############/ CREATIVE MODE - WORKING IN THE CODE, PLEASE WAIT ;)
 
+you can see the progress here: https://colab.research.google.com/drive/1h_FbRNYNxYLxNELYOEZpBj_0EE0qcU8l?usp=sharing
+
 # Introduction to RAG()
 
 ### Links: 
