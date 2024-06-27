@@ -55,3 +55,10 @@ The platform of [huggingface](https://huggingface.co/), an amazing AI community 
 you can follow me [here](https://huggingface.co/DSG). 🤗
 
 [LangChain](https://www.langchain.com/) gives developers a framework to construct LLM‑powered apps easily. Check the [doc](https://python.langchain.com/v0.2/docs/introduction/) for more info.
+
+
+# testing zone
+
+this part is a collection of colab notebooks where use news LLM models and implementations
+
+[Florence_2](https://colab.research.google.com/drive/1dnsgmg3sZdMxL6hHbgx7b9W46EpdreJi?usp=sharing)
