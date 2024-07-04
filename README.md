@@ -1,4 +1,4 @@
-# Complete LLM Course from zero to Job （づ￣3￣）づ╭❤～
+# LLM: my journey （づ￣3￣）づ╭❤～
 
 ## The objetive: 
 
