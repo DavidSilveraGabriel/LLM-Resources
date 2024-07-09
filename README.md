@@ -47,6 +47,12 @@ You really know something when you can explain it to your imaginary friend named
 
 you can see the progress here: https://colab.research.google.com/drive/1h_FbRNYNxYLxNELYOEZpBj_0EE0qcU8l?usp=sharing
 
+# Performing OCR with Florence 2 
+
+Optical character recognition (OCR) is the process of converting an image with text into a text format that can be read by machines, for example: 
+
+[Check my implementation of the model](https://colab.research.google.com/drive/1dnsgmg3sZdMxL6hHbgx7b9W46EpdreJi?usp=sharing)
+
 # Introduction to RAG()
 
 ### Links: 
