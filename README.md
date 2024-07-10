@@ -47,7 +47,7 @@ You really know something when you can explain it to your imaginary friend named
 
 you can see the progress here: https://colab.research.google.com/drive/1h_FbRNYNxYLxNELYOEZpBj_0EE0qcU8l?usp=sharing
 
-# Performing OCR with Florence 2 
+# Florence 2: The computer vision multitask model
 
 Optical character recognition (OCR) is the process of converting an image with text into a text format that can be read by machines, for example: 
 
