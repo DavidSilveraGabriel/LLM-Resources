@@ -10,8 +10,6 @@ Additionally, I hope this serves the open-source community by providing an examp
 
 In the field of artificial intelligence and natural language processing, LLM stands for **Large Language Model**.
 
-[Can you explain it better?]
-
 ### Large Language Model (LLM)
 
 A **Large Language Model** is a type of machine learning model trained on a vast amount of textual data to understand and generate natural language. These models can perform various language-related tasks such as translation, summarization, text generation, question answering, and more... 👀
