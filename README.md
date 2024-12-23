@@ -202,7 +202,10 @@ Therefore, the train's average speed is 60 kilometers per hour.
 3. **Sentence Transformers**
    - Compute embeddings
    - Semantic search
-
+4. **Crew AI**
+   - Agents 
+   - The Leading Multi-Agent Platform
+   
 ### Learning Resources 📖
 1. [Hugging Face Course](https://huggingface.co/course) - Free, comprehensive
 2. [FastAI Practical Deep Learning](https://course.fast.ai/) - Hands-on approach
